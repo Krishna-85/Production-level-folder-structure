@@ -7,6 +7,7 @@ This repository contains a standardized folder structure designed for production
 root/ │ ├── src/ │ ├── components/ │ ├── pages/ │ ├── assets/ │ ├── services/ │ ├── utils/ │ └── ... │ ├── config/ │ ├── env/ │ ├── routes/ │ └── ... │ ├── public/ │ ├── index.html │ └── ... │ ├── tests/ │ ├── unit/ │ ├── integration/ │ └── ... │ ├── scripts/ │ └── ... │ ├── .env ├── .gitignore ├── package.json ├── README.md └── ...
 
 
+
 ### 📁 Key Folders and Files
 
 - **src/**: Contains the main source code for the project.
@@ -32,7 +33,7 @@ root/ │ ├── src/ │ ├── components/ │ ├── pages/ │ ├�
 
 1. Clone the repository:
    ```bash
-https://github.com/Krishna-85/Production-level-folder-structure.git
+   git clone https://github.com/Krishna-85/Production-level-folder-structure.git
 🛠️ Customization
 Feel free to adapt the folder structure to suit the specific needs of your project.
 
