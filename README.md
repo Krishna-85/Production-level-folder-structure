@@ -32,7 +32,7 @@ root/ │ ├── src/ │ ├── components/ │ ├── pages/ │ ├�
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+https://github.com/Krishna-85/Production-level-folder-structure.git
 🛠️ Customization
 Feel free to adapt the folder structure to suit the specific needs of your project.
 
